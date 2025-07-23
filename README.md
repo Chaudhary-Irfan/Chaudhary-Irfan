@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaudhary-Irfan
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning ASP .Net
 - 💞️ I’m looking to collaborate on new ideas you have.
 - 📫 How to reach me My linkdin attached
 - 😄 Pronouns: he/his/him
